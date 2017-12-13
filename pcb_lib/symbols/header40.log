@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : header40.dra                                  )
+(    Software Version : 17.0P009                                      )
+(    Date/Time        : Tue May 10 22:31:41 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_17.0/share/pcb/pcb_lib/symbols
+    Name      = header40.psm
+    User      = Madison
+    Machine   = MADISON-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

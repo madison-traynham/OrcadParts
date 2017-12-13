@@ -1,0 +1,30 @@
+\t (00:00:00) allegro 17.0 P011 (v17-0-118F) Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Dec 05 11:23:04 2016
+\t (00:00:00)         Host=MADISON-PC User=Madison Pid=42888 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_17.0\tools\bin\allegro.exe C:\Cadence\SPB_17.0\share\pcb\pcb_lib\symbols\molex_1mm.dra
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: C:/Cadence/SPB_17.0/share/pcb/pcb_lib/symbols/molex_1mm.dra
+\i (00:00:00) trapsize 87
+\i (00:00:01) trapsize 85
+\i (00:00:01) trapsize 87
+\i (00:00:01) trapsize 89
+\i (00:00:01) trapsize 89
+\i (00:00:01) etchedit 
+\i (00:00:02) pick grid -2.818 1.931
+\t (00:00:02) last pick:  -2.800 1.900
+\i (00:00:03) prepopup -2.836 1.913
+\i (00:00:04) pop dyn_option_select '@:@Show element' 
+\i (00:00:04) show element 
+\i (00:00:05) etchedit 
+\i (00:01:44) pick grid -1.377 -2.731
+\t (00:01:44) last pick:  -1.400 -2.700
+\i (00:01:44) prepopup -1.394 -2.731
+\i (00:01:46) pop dyn_option_select '@:@Show element' 
+\i (00:01:46) show element 
+\i (00:01:46) etchedit 
+\i (03:14:46) setwindow text
+\i (03:14:46) close 
+\i (03:14:48) setwindow pcb
+\i (03:14:48) exit 
+\t (03:14:52)     Journal end - Mon Dec 05 14:37:56 2016

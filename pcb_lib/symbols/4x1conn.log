@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : 4X1conn.dra                                   )
+(    Software Version : 17.0P009                                      )
+(    Date/Time        : Sun Jun 28 17:43:15 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_17.0/share/pcb/pcb_lib/symbols
+    Name      = 4x1conn.psm
+    User      = Madison
+    Machine   = MADISON-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
